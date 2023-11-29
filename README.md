@@ -15,4 +15,4 @@ Python package for everything related to Data Science
 
 
 
--------------------------------------------- Coming to you Soon! ------------------------------------------
+-------------------------------- Coming to you Soon! ------------------------------
